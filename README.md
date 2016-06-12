@@ -1,5 +1,3 @@
-# misc
+#os-checker
 
-miscellaneous scripts/programs/etc
-
-os-checker.js checks the user's OS and tells them what it thinks about it.
+os-checker checks the user's OS and tells them what it thinks about it.
